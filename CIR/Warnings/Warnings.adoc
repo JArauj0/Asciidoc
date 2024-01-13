@@ -1,0 +1,5 @@
+= Warnings list
+
+== Use of chemical products
+
+The use of products products can result in something.

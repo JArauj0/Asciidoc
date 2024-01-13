@@ -1,0 +1,7 @@
+= Work Card Manual
+:warningsdir: ../CIR/Warnings
+
+== Hello there
+
+include::{sourcedir}/Warnings.adoc
+
